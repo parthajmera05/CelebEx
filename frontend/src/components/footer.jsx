@@ -5,9 +5,9 @@ function Footer() {
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-20">
         {/* Brand Section */}
         <div>
-          <h2 className="text-2xl font-bold text-green-400">PersonaX</h2>
+          <h2 className="text-2xl font-bold text-green-400">CelebX</h2>
           <p className="mt-4 text-sm">
-            The world&apos;s leading platform for trading personality tokens. Join
+            The world&apos;s leading platform for trading personality stocks. Join
             the future of social trading.
           </p>
           <div className="mt-4 flex space-x-4">
